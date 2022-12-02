@@ -8,6 +8,7 @@ async function readFileAndSolveProblem() {
     //TODO: solve the problem here, based on inputLines
     
 
+
 }
 
 readFileAndSolveProblem()
